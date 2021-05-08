@@ -32,4 +32,6 @@ def quadratic(a, b, c):
             print('Equation {}x2 + {}x + {} = 0 has two solutions, {} and {}'.format(a, b, c, solution1, solution2))
             return solution1, solution2
 
+
+
 quadratic(0,0,6)

@@ -1,5 +1,5 @@
 import unittest
-from set_of_equations import set_of_equations
+from Equations.set_of_equations import set_of_equations
 
 
 class TestSetEquat(unittest.TestCase):

@@ -21,6 +21,7 @@ def set_of_equations(a, b, c, d, e, f):
         return x, y
 
 
+
 set_of_equations(1, 3, 5, 8, 0, 2)
 print('------------------------------------------------------------------')
 set_of_equations(1, 1, 2, 1, 1, 3)

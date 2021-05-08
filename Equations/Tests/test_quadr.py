@@ -1,5 +1,5 @@
 import unittest
-from quadratic import quadratic
+from Equations.quadratic import quadratic
 
 
 class TestQuadratic(unittest.TestCase):
